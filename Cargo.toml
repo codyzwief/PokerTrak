@@ -1,0 +1,10 @@
+[package]
+
+name = "poker_trak"
+version = "0.0.1"
+authors = ["Cody Zwiefelhofer <cody@czwief.com"]
+
+[dependencies]
+
+[dependencies.iron]
+version = "*"
